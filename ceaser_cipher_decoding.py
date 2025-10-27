@@ -17,4 +17,4 @@ def f(x):         # algorithm for decoding Caesar cryptographic for all iteratio
     mylist.clear()
   print(x)
 
-# example f("BGUTBMBGZTFHNLXMKTIPBMAVAXXLXTEPTRLEXTOXKHHFYHKMAXFHNLX")
+# example f("BGUTBMBGZTFHNLXMKTIPBMAVAXXLXTEPTRLEXTOXKHHFYHKMAXFHNLX")  f("PRJJBOYXIZLKVIBFPROBXIMEX")
